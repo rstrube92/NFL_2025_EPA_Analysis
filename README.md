@@ -58,4 +58,4 @@ This plot illustrates the offensive identity of all 32 teams, with **labels incl
 
 The complete Python code, data wrangling steps, and visualization generation are available in the linked Jupyter Notebook:
 
-➡️ **[nfl\_epa\_analysis.ipynb](nfl_epa_analysis.ipynb)**
+➡️ **[nfl\_epa\_analysis.ipynb](NFL_Strategy_EPA_Analysis.ipynb)**
